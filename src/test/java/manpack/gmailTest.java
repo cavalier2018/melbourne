@@ -7,7 +7,7 @@ public class gmailTest {
 	@Test
 	public void openbrowser()
 	{
-		System.out.println("Browser is opened");
+		System.out.println("Browser is opened now");
 	}
 	
 	@Test
