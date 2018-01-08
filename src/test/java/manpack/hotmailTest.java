@@ -19,6 +19,6 @@ public class hotmailTest {
 	@Test
 	public void loginhotmail()
 	{
-		System.out.println("username password and login");
+		System.out.println("username abc and xyz");
 	}
 }
