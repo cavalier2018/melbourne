@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123" started-at="2018-01-05T07:59:09Z" finished-at="2018-01-05T07:59:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123" started-at="2018-01-05T07:59:09Z" finished-at="2018-01-05T07:59:09Z">
+      <class name="manpack.hotmail">
+        <test-method status="PASS" signature="loginhotmail()[pri:0, instance:manpack.hotmail@be83e4]" name="loginhotmail" duration-ms="27" started-at="2018-01-05T18:59:09Z" finished-at="2018-01-05T18:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginhotmail -->
+        <test-method status="PASS" signature="navtohotmail()[pri:0, instance:manpack.hotmail@be83e4]" name="navtohotmail" duration-ms="3" started-at="2018-01-05T18:59:09Z" finished-at="2018-01-05T18:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navtohotmail -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:manpack.hotmail@be83e4]" name="openbrowser" duration-ms="2" started-at="2018-01-05T18:59:09Z" finished-at="2018-01-05T18:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+      </class> <!-- manpack.hotmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
